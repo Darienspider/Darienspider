@@ -1,5 +1,10 @@
+<h1>
+Hi there, 
+</h1>
+
+
 - 👋 Hi, I’mShadarien Williams
-- 	&#x1F52D;
+- 	&#x1F52D; I'm currently working on Shopify Projects 
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://shadwilliams.dev
+- 📢 looking for help with obtaining clients
