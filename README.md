@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://Shadwilliams.dev](https://Shadwilliams.dev)
 
-- 💬 Ask me about **Javascript and Spotify**
+- 💬 Ask me about **Javascript and Shopify**
 
 - 📫 How to reach me **shadarien@shadwilliams.dev**
 
