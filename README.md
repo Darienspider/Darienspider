@@ -22,3 +22,6 @@
 <a href="https://www.buymeacoffee.com/shadarienDev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=shadarienDev&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
   
   <a href="https://ko-fi.com/https://ko-fi.com/shadarienwilliams"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/shadarienwilliams" /></a></p><br><br>
+
+<a href="https://app.daily.dev/813developer"><img src="https://api.daily.dev/devcards/v2/CUGKcK9o0SIsXQLhl0NpJ.png?r=eql" width="356" alt="Shadarien's Dev Card"/></a>
+
